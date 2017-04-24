@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class HelloWorld {
+  // 菲尼克斯测试下GUI提交操作
     // 添加个备注
     //完成 main 方法
     public static void main(String[] args) 
